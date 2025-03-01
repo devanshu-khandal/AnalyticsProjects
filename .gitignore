@@ -1,6 +1,9 @@
 .DS_Store
 venv
 ML_DataSets
+./Class_test_Formulation.py
+ML_Practice_Reg_Class.py
+Decision_Tree_Practical.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
